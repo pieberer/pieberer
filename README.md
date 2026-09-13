@@ -1,2 +1,5 @@
 hi there's nothing here <br>
-![wires](https://static.wikia.nocookie.net/silly-cat/images/4/4f/Wire_Cat.png/revision/latest?cb=20231001190626&format=original)
+<img src="wires.jpg" alt="wires" width="300">
+
+contact:
+discord: @epic_pieb (DM first please, if you can't DM join a public server like terraria official discord)
