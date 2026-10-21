@@ -3,6 +3,6 @@ hi there's nothing here <br>
 
 contact:\
 discord: @epic_pieb (DM first please, if you can't DM join a public server like terraria official discord) (and also you should clearly state why you dm me or else you bot)\
-email: aurictoilet15@gmail.com (i rarely check)\
+email: aurictoilet15@gmail.com thisisindeedthefifthcoming@gmail.com (i rarely check)\
 geometry dash: pieb (????)\
 github: pieberer (dude you're on github)
